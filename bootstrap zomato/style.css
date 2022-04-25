@@ -1,0 +1,182 @@
+*{
+    
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html{
+   overflow-x: hidden;
+}
+.navbar{
+background-color: transparent;
+}
+.bg-image{
+margin-top: -17rem;
+height: 40rem;
+width: 100%;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.zomologo{
+    width: 20rem;
+    height: 4rem;
+}
+.zlogo{
+    margin-top: 30em;
+    margin-bottom: 2em;
+    height: 23em;
+    width: 18em;
+}
+.discover{
+    margin-top: 7em;
+}
+.search{
+   
+   width: 55vw;
+  box-sizing: inherit;
+   border-radius: 10px;
+   background-color: #fff;
+   padding: 5px 0; 
+}
+.search input{
+    outline: none;
+    border: none;
+   width: 50%;
+   height: 30px;
+   font-size: 15px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.search p{
+   
+    color: grey;
+    border-right: 1px solid grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+  
+
+}
+#button{
+    margin-left: 1em;
+}
+.map_icon{
+   
+    width: 20px;
+    height: 20px;
+}
+.search_icon{
+    width: 20px;
+    height: 20px;
+}
+.checkbar{
+    position: relative;
+   
+  
+}
+.sec1 card1{
+    border-radius: 46em;
+
+}
+.card-img-top {
+    padding-top: 3em;
+   
+    width: 70vw;
+    height: 40vw;
+    background-size: 100% 100%;
+   
+    
+}
+.card2{
+    border-radius: 4em;
+
+}
+.inptgetapp-input{
+    margin-top: 3rempx;
+   
+    border-radius: 5px;
+    border-color: gray;
+    width: 50%;
+    height: 50px;
+    padding-left: 10px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.inptgetapp-button{
+    background-color: #e03546;
+    border-style: none;
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+
+}
+
+.getappimg{
+    margin-top:50px;
+    width: 275px;
+    height: 250px;
+}
+.appstr img{
+    width: 150px;
+    height: 40px;
+}
+.foot-head a{
+    margin-top: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: none;
+    text-decoration: none;
+    color: gray;
+    font-size: 0.95rem;
+}
+.foot-head h4{
+    margin-top: 40px;
+    font-size: 23px;
+    font-style: none;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 25px;
+    
+}
+.ft-list a{
+
+    width: 190px;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    display: inline-block;
+    margin: 15px 0;
+    color: #828282;
+}
+.boxz img {
+    width: 2em;
+    height:2em ;
+    margin-bottom: 20px;
+}
+.boxz{
+    padding-left: 4em;
+}
+.apptd img{
+    width: 8rem;
+    height:3em ;
+    
+}
+.ft-foot h4{
+    padding-top: 2em;
+    font-size: large;
+}
+.ft-foot a{
+
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: #696969;
+    font-size: 0.9rem;
+}
